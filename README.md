@@ -1,6 +1,8 @@
 # A Unified Perspective on Exponential Tilt and Bridge Algorithms for Rare Trajectories of Discrete Markov Processes
 These Python codes were used to generate plots in J. Aguilar and R. Gatto "A Unified Perspective on Exponential Tilt and Bridge Algorithms for Rare Trajectories of Discrete Markov Processes."
 
+This collection of code is provided under an open-source license for free use and modification. If you find these codes useful in your research or project, we kindly request that you acknowledge the source by citing the following article:
+
 The repository includes the following codes:
 
 1. **BRW_experiment_1.py** Generate figures 1, 2, and 3.
